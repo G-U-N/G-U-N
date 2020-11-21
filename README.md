@@ -8,7 +8,7 @@ I hope to be a great man. I want to make a legend.
 
 - 🔥 I hope to Went to Tsinghua uinversity or stay in [NJU-lamda](https://www.lamda.nju.edu.cn/CH.MainPage.ashx) when I graduate. Berkeley and Carnegie Mellon are my dreaming schools if I would like to get a Ph.D degree.
 - 😋 I'm interested in Music, Math, English and coding.
-- 🌱 I’m currently learning knowledges of CS and AI in Nanjing University(one of the top 7 Universities in China). 
+- 🌱 I’m currently learning knowledges of CS and AI in Nanjing University(one of the top 5 Universities in China). 
 - 💬 Ask me about any thing you want to konw.
 - 📫 How to reach me: [知乎](https://www.zhihu.com/people/tian-cai-68-16), e-mail:1697256461@qq.com , [homepage](https://WannaFy.github.io) 
 - ⚡ Fun fact: I haven't find a girl friend yet and I think it's to hard for me to chat with girls, although I seldom chat with girls.
