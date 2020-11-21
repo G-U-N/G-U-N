@@ -5,7 +5,6 @@ I hope to be a great man. I want to make a legend.
 
 ![](https://github-readme-stats.vercel.app/api?username=WannaFy&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaFy&theme=dark)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=WannaFy&hide_title=true&hide_border=true&langs_count=5)
 
 - 🔥 I hope to Went to Tsinghua uinversity or stay in [NJU-lamda](https://www.lamda.nju.edu.cn/CH.MainPage.ashx) when I graduate. Berkeley and Carnegie Mellon are my dreaming schools if I would like to get a Ph.D degree.
 - 😋 I'm interested in Music, Math, English and coding.
