@@ -12,7 +12,7 @@ I hope to be a great man. I want to make a legend.
 - 🏆 My awards: De Wang scholarship(10000), Ren Min scholarship.  
 - 💬 Ask me about any thing you want to konw.
 - 📫 How to reach me: [知乎](https://www.zhihu.com/people/tian-cai-68-16), e-mail:1697256461@qq.com , [homepage](https://WannaFy.github.io) 
-- ⚡ Fun fact: I haven't found a girl friend yet and I think it's to hard for me to chat with girls, although I seldom chat with girls.
+- ⚡ Fun fact: I haven't found a girl friend yet and I think it's too hard for me to chat with girls, although I seldom chat with girls.
 
 
 **BEST WISHES to my family**
