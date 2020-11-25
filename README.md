@@ -11,7 +11,7 @@ I hope to be a great man. I want to make a legend.
 - 🌱 I’m currently learning knowledges of CS and AI in Nanjing University(one of the top 5 Universities in China). 
 - 🏆 My awards: De Wang scholarship(10000), Ren Min scholarship.  
 - 💬 Ask me about any thing you want to konw.
-- 📫 How to reach me: [知乎](https://www.zhihu.com/people/tian-cai-68-16), e-mail:1697256461@qq.com , 191300051@smail.nju.edu.cn [homepage](https://WannaFy.github.io) 
+- 📫 How to reach me: [知乎](https://www.zhihu.com/people/tian-cai-68-16), e-mail:1697256461@qq.com , 191300051@smail.nju.edu.cn. [homepage](https://WannaFy.github.io) 
 - ⚡ Fun fact: I haven't found a girl friend yet and I think it's too hard for me to chat with girls, although I seldom chat with girls.
 
 
