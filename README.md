@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.
 
-I hope to be a great man. I want to make a legend.
+<!--I hope to be a great man. I want to make a legend.>
 
 ![](https://github-readme-stats.vercel.app/api?username=WannaFy&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaFy&theme=dark)
