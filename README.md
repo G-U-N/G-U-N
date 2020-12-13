@@ -7,7 +7,7 @@ I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.
 ![](https://github-readme-stats.vercel.app/api?username=WannaFy&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaFy&theme=dark)
 
-- 🔥 I hope to Went to Tsinghua uinversity or stay in [NJU-lamda](https://www.lamda.nju.edu.cn/CH.MainPage.ashx) when I graduate. Berkeley and Carnegie Mellon are my dreaming schools if I would like to get a Ph.D degree.
+- 🔥 I hope to go to Tsinghua uinversity or stay in [NJU-lamda](https://www.lamda.nju.edu.cn/CH.MainPage.ashx) when I graduate. Berkeley and Carnegie Mellon are my dreaming schools if I would like to get a Ph.D degree.
 - 😋 I'm interested in Music, Math, English and coding.
 - 🌱 I’m currently learning knowledges of CS and AI in Nanjing University(one of the top 5 Universities in China). 
 - 💬 Ask me about any thing you want to konw.
