@@ -18,6 +18,7 @@ I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.
   - Ren Min scholarship
   - East China Nine School Hackation 2020:(forth place) third prize(https://github.com/homework-is-stupid/No-touch-identification).
   - E fund cup AI+ professional competition winning prizes(优胜奖) for good performance in task1 and task2.
+  - The second National algorithm Design and programming Challenge for College students in 2020-2021 (Winter Competition) Silver award.
 
 **BEST WISHES to my family**
 <!--
