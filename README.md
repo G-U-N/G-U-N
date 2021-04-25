@@ -7,13 +7,14 @@ I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.
 ![](https://github-readme-stats.vercel.app/api?username=WannaFy)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WannaFy)<!--use &theme=dark to change it into dark mode-->
 
-<!-- 🔥 I hope to go to Tsinghua uinversity or stay in [NJU-lamda](https://www.lamda.nju.edu.cn/CH.MainPage.ashx) when I graduate. Berkeley and Carnegie Mellon are my dreaming schools if I would like to get a Ph.D degree.-->
+- 🔥 I hope to go to Tsinghua uinversity or stay in [NJU-lamda](https://www.lamda.nju.edu.cn/CH.MainPage.ashx) when I graduate. Berkeley and Carnegie Mellon are my dreaming schools if I would like to get a Ph.D degree.-->
 - 😋 I'm interested in Music, Math, English and coding.
 - 🌱 I’m currently learning knowledges of CS and AI in Nanjing University(one of the top 5 Universities in China). 
 - 💬 Ask me about any thing you want to konw.
 - 📫 How to reach me: [知乎](https://www.zhihu.com/people/tian-cai-68-16), e-mail:1697256461@qq.com , 191300051@smail.nju.edu.cn.
 - ⚡ Fun fact: I haven't found a girl friend yet and I think it's too hard for me to chat with girls, though I seldom chat with girls.
-<!-- 🏆 My awards: 
+- 🏆 My awards: For some reason, I hid it for the time being.
+<!--
   - De Wang scholarship(10000)
   - Ren Min scholarship
   - East China Nine School Hackation 2020:(forth place) third prize(https://github.com/homework-is-stupid/No-touch-identification).
