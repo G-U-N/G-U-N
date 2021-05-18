@@ -1,5 +1,7 @@
+这个人很懒，什么都没有写！
+
 <!-- ### Hi there 👋
-I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.
+I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.-->
 
 <!--I hope to be a great man. I want to make a legend.-->
 
