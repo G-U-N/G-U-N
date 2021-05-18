@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.
 
 <!--I hope to be a great man. I want to make a legend.-->
@@ -21,7 +21,7 @@ I'm Frey Wong(WannFy), an undergraduate student majoring in AI&CS.
   - E fund cup AI+ professional competition winning prizes(优胜奖) for good performance in task1 and task2.
   - The second National algorithm Design and programming Challenge for College students in 2020-2021 (Winter Competition) Silver award.
 -->
-**BEST WISHES to my family**
+**BEST WISHES to my family** -->
 <!--
 **WannaFy/WannaFy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
