@@ -1,4 +1,4 @@
-Hi, I'm Fu-Yun Wang. I am pursuing a bachelor's degree in artificial intelligence at Nanjing University.
+Hi, I'm Fu-Yun Wang. I am pursuing a bachelor's degree in artificial intelligence.
 
 My research interests include `Continual Learning`, `Bayesian Methods`, `Machine Learning Theory` and `Reinforcement Learning`. 
 
