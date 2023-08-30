@@ -20,7 +20,7 @@ His research interests revolve around the intersection of computer vision and ma
 
  <h3 align="center"> Contact </h3>
 
-email: wangfuyun@smail.nju.edu.cn   fywang@link.cuhk.edu.hk  wangfuyun@pjlab.org.cn
+email: wangfuyun@smail.nju.edu.cn or fywang@link.cuhk.edu.hk or wangfuyun@pjlab.org.cn
 
 
 
