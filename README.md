@@ -1,6 +1,6 @@
 <h2 align="center"> About Me </h2>
  
-Fu-Yun Wang (WANG, Fuyun) is a first year Ph.D. student in the Multimedia Laboratory at the Chinese University of Hong Kong, advised by [Prof. Xiaogang Wang](https://scholar.google.com/citations?user=-B5JgjsAAAAJ&hl=en) and [Prof. Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/) since the fall of 2023. He obtained his B.Eng. from Nanjing University, supervised by [Prof. Han-Jia Ye](http://www.lamda.nju.edu.cn/yehj/) and [Dr. Da-Wei Zhou](http://www.lamda.nju.edu.cn/zhoudw/) at the [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) in 2023.
+Fu-Yun Wang (WANG, Fuyun) is a first year Ph.D. student in the MMLab@CUHK, advised by [Prof. Xiaogang Wang](https://scholar.google.com/citations?user=-B5JgjsAAAAJ&hl=en) and [Prof. Hongsheng Li](http://www.ee.cuhk.edu.hk/~hsli/) since the fall of 2023. He obtained his B.Eng. from Nanjing University, supervised by [Prof. Han-Jia Ye](http://www.lamda.nju.edu.cn/yehj/) and [Dr. Da-Wei Zhou](http://www.lamda.nju.edu.cn/zhoudw/) at the [LAMDA Group](http://www.lamda.nju.edu.cn/CH.MainPage.ashx) in 2023.
 
  <h3 align="center"> Research Projects </h3>
 
