@@ -11,6 +11,7 @@ First Year Ph.D. student.
 
 
  **Video Editing/Synthesis**
+- [Motion-I2V](https://huggingface.co/papers/2401.15977): General explicit motion generation framework, working for Image-to-Video, Drag Video, Motion Brush, Vid2Vid.
 - [AnimateLCM](https://github.com/): video generation within 4 steps.
 - [Gen-L^2](https://gen-l-2.github.io/): high-fidelity long video generation with only short video diffusion models.
 - [Be-Your-Outpainter](https://be-your-outpainter.github.io/): high-quality flexible video outpainting pipeline.  
