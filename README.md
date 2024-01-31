@@ -1,6 +1,6 @@
 <h2 align="center"> About Me </h2>
 
-First Year Ph.D. student.
+1st Year Ph.D. student.
  <h3 align="center"> Projects </h3>
 
 **Class-Incremental Learning**
