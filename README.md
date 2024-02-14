@@ -10,7 +10,6 @@
 - [AnimateLCM](https://github.com/): video generation within 4 steps.
 - [Gen-L^2](https://gen-l-2.github.io/): high-fidelity zero-shot long video generation with only short video diffusion models.
 - [Be-Your-Outpainter](https://be-your-outpainter.github.io/): high-quality flexible video outpainting pipeline.  
-- [Gen-L-Video](https://github.com/G-U-N/Gen-L-Video): zero-shot multi-text long video generation. <img src="https://img.shields.io/github/stars/G-U-N/Gen-L-Video?style=social" /> 
 
 **Class-Incremental Learning**
 
