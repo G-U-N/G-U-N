@@ -1,13 +1,11 @@
-<h2 align="center"> About Me </h2>
 
-1st Year Ph.D. student.
- <h3 align="center"> Projects </h3>
+ <h3 align="center"> List of Projects </h3>
 
 
  **Video Editing/Synthesis**
  
 - [Motion-I2V](https://huggingface.co/papers/2401.15977): General explicit motion generation framework, working for Image-to-Video, Drag Video, Motion Brush, Vid2Vid.
-- [AnimateLCM](https://github.com/): video generation within 4 steps.
+- [AnimateLCM](https://animatelcm.github.io/): video generation within 4 steps.
 - [Be-Your-Outpainter](https://be-your-outpainter.github.io/): high-quality flexible video outpainting pipeline.  
 
 **Class-Incremental Learning**
