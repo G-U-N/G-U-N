@@ -4,9 +4,9 @@
 
  **Video Editing/Synthesis**
  
-- [Motion-I2V](https://huggingface.co/papers/2401.15977): General explicit motion generation framework, working for Image-to-Video, Drag Video, Motion Brush, Vid2Vid.
+- [Motion-I2V](https://huggingface.co/papers/2401.15977) [SIGGRAPH 2024]: General explicit motion generation framework, working for Image-to-Video, Drag Video, Motion Brush, Vid2Vid.
 - [AnimateLCM](https://animatelcm.github.io/): video generation within 4 steps.  <img src="https://img.shields.io/github/stars/G-U-N/AnimateLCM?style=social" />
-- [Be-Your-Outpainter](https://be-your-outpainter.github.io/): video outpainting pipeline.  
+- [Be-Your-Outpainter](https://be-your-outpainter.github.io/) [ECCV 2024]: video outpainting pipeline.  
 
 **Class-Incremental Learning**
 
