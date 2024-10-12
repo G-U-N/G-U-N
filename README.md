@@ -4,7 +4,7 @@
 **Diffusion Acceleration**
 
 - [Rectified Diffusion](https://arxiv.org/abs/2410.07303): Understanding and extending rectified flows to general diffusion models.
-- [PCM](https://arxiv.org/abs/2405.18407) [NeurIPS 2024]: Phasing and improving latent consistency models. <img src="https://img.shields.io/github/stars/G-U-N/Phased-Consistency-Model?style=social" />
+- [PCM](https://arxiv.org/abs/2405.18407) [NeurIPS 2024]: Phasing and improving latent consistency models (One-step T2I and T2V). <img src="https://img.shields.io/github/stars/G-U-N/Phased-Consistency-Model?style=social" />
 - [OSV](https://arxiv.org/abs/2409.11367): Efficient Image-to-Video Generation.
 
  **Video Editing/Synthesis**
