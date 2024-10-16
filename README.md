@@ -11,7 +11,7 @@
  
 - [Motion-I2V](https://huggingface.co/papers/2401.15977) [SIGGRAPH 2024]: General explicit motion generation framework, working for Image-to-Video, Drag Video, Motion Brush, Vid2Vid.  <img src="https://img.shields.io/github/stars/G-U-N/Motion-I2V?style=social" />
 - [AnimateLCM](https://animatelcm.github.io/) [SIGGRAPH ASIA 2024 TCS]: Efficient personalized video generation without personalized video data.  <img src="https://img.shields.io/github/stars/G-U-N/AnimateLCM?style=social" />
-- [Be-Your-Outpainter](https://be-your-outpainter.github.io/) [ECCV 2024]: video outpainting pipeline.  <img src="https://img.shields.io/github/stars/G-U-N/Be-Your-Outpainter?style=social" />
+- [Be-Your-Outpainter](https://be-your-outpainter.github.io/) [ECCV 2024]: one-shot video outpainting.  <img src="https://img.shields.io/github/stars/G-U-N/Be-Your-Outpainter?style=social" />
 
 **Class-Incremental Learning**
 
