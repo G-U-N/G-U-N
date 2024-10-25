@@ -2,7 +2,7 @@
  <h3 align="center"> List of Projects </h3>
 
 **Diffusion Acceleration**
-
+- [Stable Consisrency Tuning](https://arxiv.org/pdf/2410.18958): Understanding and improving consistency models.  <img src="https://img.shields.io/github/stars/G-U-N/Stable-Consistency-Tuning?style=social" />
 - [Rectified Diffusion](https://arxiv.org/abs/2410.07303): Understanding and extending rectified flows to general diffusion models.  <img src="https://img.shields.io/github/stars/G-U-N/Rectified-Diffusion?style=social" />
 - [PCM](https://arxiv.org/abs/2405.18407) [NeurIPS 2024]: Phasing and improving latent consistency models (One-step T2I and T2V). <img src="https://img.shields.io/github/stars/G-U-N/Phased-Consistency-Model?style=social" />
 - [OSV](https://arxiv.org/abs/2409.11367): Efficient Image-to-Video Generation.
