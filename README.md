@@ -24,7 +24,7 @@
 
  <h3 align="center"> Contact </h3>
 
-email: wangfuyun@smail.nju.edu.cn or fywang@link.cuhk.edu.hk
+email: wangfuyun(at)smail.nju.edu.cn; fywang(at)link.cuhk.edu.hk; fywang0126(at)gmail.com
 
 
 
